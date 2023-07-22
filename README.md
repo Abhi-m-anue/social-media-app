@@ -13,8 +13,9 @@ This is a web development project for a Social Media App that allows users to cr
 ## Technologies Used
 
 - Front-end:
-  - React.js
-  - CSS 
+  - React.js (Frontend framework)
+  - JavaScript (Programming language)
+  - CSS (Styling)
 
 - Back-end:
   - Firebase
